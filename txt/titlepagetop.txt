@@ -1,2 +1,4 @@
-<h>Mult-line Site Title</h>
+<div style="float:left">
+<h1>Mult-line Site Title</h1>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus volutpat gravida. Vivamus vehicula turpis nec dolor vulputate porta. Donec tincidunt ac lorem ac fringilla. Etiam elementum, odio quis bibendum ultrices, nulla lacus dignissim leo, quis dapibus justo est non urna. Nunc mollis dui id ullamcorper lacinia. Etiam dignissim iaculis leo vitae malesuada. Morbi lobortis, erat et lacinia pharetra, eros tellus cursus velit, ac porta ipsum nulla ac purus. Vestibulum vulputate vestibulum ipsum, sit amet gravida tellus posuere et. Vestibulum sed lectus efficitur augue tristique mollis. Phasellus velit lorem, varius quis imperdiet accumsan, sagittis ac elit. In malesuada, leo eu suscipit dignissim, nulla diam ultricies mauris, non euismod eros diam id purus. Maecenas auctor dignissim lorem id pretium.</p>
+</div>
